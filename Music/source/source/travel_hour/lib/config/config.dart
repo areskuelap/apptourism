@@ -27,7 +27,7 @@ class Config {
 
   //relplace by your country lattitude & longitude
   final CameraPosition initialCameraPosition = CameraPosition(
-    target: LatLng(23.777176,90.399452), //here
+    target: LatLng(-6.23169,-77.86903), //here
     zoom: 10,
   );
 
