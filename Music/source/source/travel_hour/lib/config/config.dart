@@ -3,7 +3,7 @@ import 'package:google_maps_flutter/google_maps_flutter.dart';
 
 class Config {
 
-  final String appName = 'Marca Amazonas'; 
+  final String appName = 'Amazonas Travel'; 
   final String mapAPIKey = 'AIzaSyCKWPm32_wkS8ukDTlrFaThKwsh8I27Z8Y';
   final String countryName = 'Amazonas';
   final String splashIcon = 'assets/images/splash.png';
